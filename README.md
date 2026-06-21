@@ -6,6 +6,10 @@
 ![No build step](https://img.shields.io/badge/build-none-success)
 ![Offline capable](https://img.shields.io/badge/network-offline%20capable-success)
 
+<p align="center">
+  <img src="assets/screenimage.png" alt="SpaceBrain DEMO — textured 3D Earth with a synthetic satellite catalogue, catalogue list, and SSA analytics" width="100%">
+</p>
+
 SpaceBrain is an AI platform for integrated space monitoring — it monitors, analyzes, and predicts space‑domain threats (satellites, debris, rockets, asteroids, and space weather) to support space security and resilience. **This repository is a self‑contained, front‑end‑only DEMO** of the catalogue dashboard: a textured 3D Earth with a synthetic satellite catalogue, a catalogue list, and SSA analytics — running entirely in the browser with **no backend and no network access**.
 
 
